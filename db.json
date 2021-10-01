@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 2
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 2
     },
     {
       "id": 3,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Red Ranger",
+      "image": "https://www.hasbro.com/common/productimages/en_GB/288E2834A3DF42C598E952B7A3A7C99E/eaa4572a57b305bee1c174b1144e660099990e55.jpg",
+      "likes": 3,
+      "id": 12
+    },
+    {
+      "name": "Rangers",
+      "image": "https://bbts1.azureedge.net/images/p/full/2021/03/52ae84c2-b389-40b9-8339-315d7378169e.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "X Wing",
+      "image": "https://cdn-3d.niceshops.com/upload/image/product/large/default/revell-x-wing-fighter-1-pc-312103-en.jpg",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "x wing",
+      "image": "https://cdn.shopify.com/s/files/1/0244/2235/0953/products/Screen_Shot_2019-10-15_at_11.19.43_PM_1653x1000.png?v=1571196004",
+      "likes": 1,
+      "id": 15
     }
   ]
 }
